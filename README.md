@@ -1,4 +1,4 @@
-# myCommunity
+# OurCommunity
 OurCommunity is a solution focused on addressing social isolation.
 
 OurCommunity is a concept rooted in social welfare, whether it helps neighbours connect and create safer neighbourhoods, or it helps promote garage sales, ind lost dogs, have shared lunches or simply be in the know.
